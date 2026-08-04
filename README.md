@@ -232,7 +232,7 @@ Potential future enhancements include:
 
 ### RTI Dome
 
-![RTI Dome](images/rti_dome.jpg)
+![RTI Dome](images/rti_dome.png)
 
 ---
 
