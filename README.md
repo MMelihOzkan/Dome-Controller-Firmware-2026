@@ -246,7 +246,7 @@ Potential future enhancements include:
 
 ### Finished Controller
 
-![Assembled RTI Controller](images/assembled.jpeg)
+![Assembled RTI Controller](images/assembled.png)
 
 ---
 
