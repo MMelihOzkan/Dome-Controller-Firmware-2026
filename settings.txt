@@ -1,1 +1,0 @@
-{"pre_led": 20, "between": 500, "shutter": 150, "focus": 200, "exposure": 520}
