@@ -276,7 +276,6 @@ This project demonstrates experience in:
 - Embedded Firmware Development
 - MicroPython Development
 - Raspberry Pi Pico
-- Embedded Python
 - GPIO Programming
 - I²C Communication
 - Hardware/Software Integration
